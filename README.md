@@ -1,6 +1,7 @@
  Here is a draft README for your ocean sustainability app:
 
-# DerSee
+# DerSee ![wave](https://github.com/hamzariffic/DerSeee/assets/60144282/51ffb724-3144-43c5-bc5b-edb3bce81dfe)
+
 
 DerSee is an android app built with Jetpack Compose that helps promote ocean sustainability. It utilizes autoML for object detection to identify trash in the ocean from images and video feeds.
 
