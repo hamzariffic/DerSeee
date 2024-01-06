@@ -10,6 +10,7 @@ DerSee is an android app built with Jetpack Compose that helps promote ocean sus
 
 - Splash screen and main app screen using Jetpack Compose UI  
 - AutoML object detection to identify trash in oceans from images and videos
+- TensorFLow Lite to enable the model to run even without internet connection
 - Information cards about ocean sustainability for users to learn more
 - Secure user authentication and data storage
 
@@ -39,9 +40,12 @@ User authentication is implemented so users can securely access their account an
 - Navigation
 - TensorFlow Lite for ML model
 - Firebase Authentication
-- Cloud Storage
+- Google Cloud Storage
 
 The app is built using a fully Kotlin stack leveraging Android Jetpack libraries like Compose for UI and Navigation plus Firebase for backend functionality.
+
+##How to Use
+Download the app and start playing with it. Nerds should just clone the app and run it on their emulators/devices to test the performance
 
 ## Contributions
 
